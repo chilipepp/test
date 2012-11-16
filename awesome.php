@@ -6,7 +6,7 @@
 <body>
 	<?php
 		echo 'this is awesome dude... it\'s a ' . date('l');
-		echo '\nGood info to know.....';
+		echo "\n Good info to know.....";
 	?>
 </body>
 </html>
